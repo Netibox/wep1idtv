@@ -14,7 +14,7 @@ function tv3hd() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8#Intent;scheme=http;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function tv5hd() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://www.livedoomovies.com:4431/02_5HD_720p/chunklist.m3u8#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=TVNETBOX;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent:https://www.livedoomovies.com:4431/02_5HD_720p/chunklist.m3u8#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=TVNETBOX;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function tv7hd() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=TVNETBOX;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
