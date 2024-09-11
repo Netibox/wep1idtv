@@ -20,10 +20,10 @@ function PremierHD3() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/epl-3.stream/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://streaming.livescorethai.net/&userAgent=exo_player;S.title=PremierHD3;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function PremierHD4() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://r3-sn-5fo-c37ed8.googleuservideo.com/ball8k_t1/trueepl4_480p/chunks.m3u8?nimblesessionid=31535260&wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjQgODoxNjoyNCBBTSZoYXNoX3ZhbHVlPXBVek8vcTRudkQ1NHQ1ejJDR3Bna1E9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yMyZpZD1iZ2hyNjI0ODA5#Intent;package=com.wiseplay;S.referer=https://www.ufa77.fun/&userAgent=exo_player;S.title=PremierHD4;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dolive.thaim3u.com/doo-tv-football-com/siamsport-4/playlist.m3u8?#Intent;package=com.wiseplay;S.referer=https://doo-tv.com/&userAgent=exo_player;S.title=PremierHD4;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function PremierHD5() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://r3-sn-5fo-c37ed8.googleuservideo.com/ball8k_t1/trueepl5_480p/chunks.m3u8?nimblesessionid=31535268&wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjQgODoyMzo1MSBBTSZoYXNoX3ZhbHVlPWpuQ0trL2dKNTQvS2dhQStWcEpSd2c9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yMyZpZD1iZ2hyOTc2OTIy#Intent;package=com.wiseplay;S.referer=https://www.ufa77.fun/&userAgent=exo_player;S.title=PremierHD5;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dolive.thaim3u.com/doo-tv-football-com/siamsport-5/playlist.m3u8?#Intent;package=com.wiseplay;S.referer=https://doo-tv.com/&userAgent=exo_player;S.title=PremierHD5;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function ASTROSPORT1() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro1/sport-inter/astro1/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://www.ball24hr.com/&userAgent=exo_player;S.title=ASTROSPORT1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
