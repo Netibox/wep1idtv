@@ -1,14 +1,14 @@
 function tv3hd() {
-  location.href = "go:tv3hd()";
+  location.href = "go:tv3hd";
 };
 function true4u() {
-  location.href = "go:true4u()";
+  location.href = "go:true4u";
 };
 function tv7hd() {
-  location.href = "go:tv7hd()";
+  location.href = "go:tv7hd";
 };
 function ch8() {
-  location.href = "go:ch8()";
+  location.href = "go:ch8";
 };
 function tv3hd() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8#Intent;scheme=http;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
