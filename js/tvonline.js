@@ -34,3 +34,15 @@ function gmmz() {
 function ch8() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://www.adintrend.tv/hd/ch33#Intent;package=com.wiseplay;S.referer=https://www.adintrend.tv/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
+function mono() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://www.adintrend.tv/hd/m/ch38#Intent;package=com.wiseplay;S.referer=https://www.adintrend.tv/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
+function workpoint() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://www.inwiptv.com/player_demo.php?channel=27159#Intent;package=com.wiseplay;S.referer=https://www.inwiptv.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
+function pptv() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://www.inwiptv.com/player_demo.php?channel=27129#Intent;package=com.wiseplay;S.referer=https://www.inwiptv.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
+function onehd() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://www.ufa77.fun/channel?ch=onehd#Intent;package=com.wiseplay;S.referer=https://www.ufa77.fun/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
