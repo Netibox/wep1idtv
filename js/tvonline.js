@@ -1,11 +1,11 @@
 function tvhd3() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://edge2a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=TVNETBOX;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=TVNETBOX;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function tv5hd() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://www.livedoomovies.com:4431/02_5HD_720p/chunklist.m3u8#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=TVNETBOX;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function tvhd7() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://edge2a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=TVNETBOX;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=TVNETBOX;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function thairat() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://edge6a.v2h-cdn.com/thairathhd/thairathHD.stream/playlist.m3u8#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=TVNETBOX;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
@@ -20,7 +20,7 @@ function gmmz() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/gmm25#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function ch8hd() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=TVNETBOX;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://vip.login.in.th:1935/ch8/ch8/chunklist.m3u8#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=TVNETBOX;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function mono() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://www.adintrend.tv/hd/m/ch38#Intent;package=com.wiseplay;S.referer=https://www.adintrend.tv/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
