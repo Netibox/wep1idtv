@@ -62,3 +62,6 @@ function tvbthai() {
 function mvtv() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://edge6a.v2h-cdn.com/mvtv75/mvtv75.stream/chunklist_w640027843.m3u8#Intent;package=com.wiseplay;S.referer=https://edge6a.v2h-cdn.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
+function attv() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://49.0.87.24:1936/HDAttv/Attv/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
+};
