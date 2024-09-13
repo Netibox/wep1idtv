@@ -1,15 +1,4 @@
-function hbo() {
-  location.href = "go:hbo";
-};
-function cinemax() {
-  location.href = "go:cinemax";
-};
-function truefilm2() {
-  location.href = "go:truefilm2";
-};
-function mono() {
-  location.href = "go:mono";
-};
+
 function hbo() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/hbo#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
