@@ -20,7 +20,7 @@ function gmmz() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/gmm25#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function ch8hd() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://vip.login.in.th:1935/ch8/ch8/chunklist.m3u8#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=TVNETBOX;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://www.inwiptv.com/player_demo.php?channel=27147#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=TVNETBOX;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function mono() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://www.adintrend.tv/hd/m/ch38#Intent;package=com.wiseplay;S.referer=https://www.adintrend.tv/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
