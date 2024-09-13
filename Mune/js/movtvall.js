@@ -11,6 +11,9 @@ function hbofamily() {
 function hbohit() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/hbo-hits#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
+function signaturehbo() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/hbo-signature#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
+};
 function truethaifilm() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://freetvdd.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
