@@ -21,7 +21,7 @@ function gmmz() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/gmm25#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function ch8() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://www.adintrend.tv/hd/ch33#Intent;package=com.wiseplay;S.referer=https://www.adintrend.tv/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://www.inwiptv.com/player_demo.php?channel=27147#Intent;package=com.wiseplay;S.referer=https://www.inwiptv.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function mono() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://www.adintrend.tv/hd/m/ch38#Intent;package=com.wiseplay;S.referer=https://www.adintrend.tv/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
