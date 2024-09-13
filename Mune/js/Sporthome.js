@@ -1,15 +1,4 @@
-function PremierHD1() {
-  location.href = "go:PremierHD1";
-};
-function WWESport() {
-  location.href = "go:WWESport";
-};
-function ASTROSPORT1() {
-  location.href = "go:ASTROSPORT1";
-};
-function Bein1() {
-  location.href = "go:Bein1";
-};
+
 function PremierHD1() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://streaming.livescorethai.net/&userAgent=exo_player;S.title=PremierHD1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
