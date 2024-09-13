@@ -154,3 +154,9 @@ function fs1() {
 function fs2() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/us-foxsports2.stream/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://freetvdd.com/&userAgent=exo_player;S.title=TrueSports1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
+function redbull() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=TVNETBOX;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
+function tsport() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://freetvdd.com/&userAgent=exo_player;S.title=TrueSports1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
