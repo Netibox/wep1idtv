@@ -8,7 +8,7 @@ function hboen() {
 function hbofamily() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/hbo-family#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
-function hbohit() {
+function hbohit2() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/hbo-hits#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
 function signaturehbo() {
