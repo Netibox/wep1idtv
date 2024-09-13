@@ -1,15 +1,4 @@
-function hboch() {
-  location.href = "go:hbo";
-};
-function hbofamilych() {
-  location.href = "go:hbofamily";
-};
-function hbosignaturech() {
-  location.href = "go:hbosign";
-};
-function cinemaxch() {
-  location.href = "go:cinemax";
-};
+
 function hboch1() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd|drmScheme=widevine&drmLicense=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
