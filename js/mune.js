@@ -7,7 +7,7 @@ function sports() {
 function movie() {
   location.href = "Mune/movindex.html";
 };
-function kisss() {
+function kiss() {
   location.href = "Mune/toonindex.html";
 };
 function sacadee() {
