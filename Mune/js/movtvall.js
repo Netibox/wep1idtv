@@ -1,4 +1,4 @@
-function attvs() {
+function attv8() {
   location.href = "Mune/attvindex.html";
 };
 func
@@ -66,5 +66,8 @@ function mvtv() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://edge6a.v2h-cdn.com/mvtv75/mvtv75.stream/chunklist_w640027843.m3u8#Intent;package=com.wiseplay;S.referer=https://edge6a.v2h-cdn.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
 function hboa2() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/hd-hbo.stream/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://freetvdd.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://appletree-mytime-samsungbrazil.amagi.tv/playlist360p.m3u8#Intent;package=com.wiseplay;S.referer=https://appletree-mytime-samsungbrazil.amagi.tv/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
+};
+function attv1() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8|referer=https://49.0.87.24:1936/HDAttv/&User-Agent=Mozilla/5.0%20(Linux;%20Android%2011;%20SM-A307GN%20Build/RP1A.200720.012;%20wv)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Version/4.0%20Chrome/107.0.5304.91%20Mobile%20Safari/537.36%20Vinebre#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=MovieTV;end" height="0" width="0" style="border:none;" title="MovieTV"></iframe>'
 };
