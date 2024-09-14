@@ -36,10 +36,10 @@ function onehdtv() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://bcovlive-a.akamaihd.net/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function pbs() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://www.ball24.tv/allchannel/?id=thaipbs#Intent;package=com.wiseplay;S.referer=https://www.ball24.tv/allchannel/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8#Intent;package=com.wiseplay;S.referer=https:/thaipbs-live.cdn.byteark.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function voice() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://www.ball24.tv/allchannel/?id=voicetv#Intent;package=com.wiseplay;S.referer=https://www.ball24.tv/allchannel/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://edge6a.v2h-cdn.com/v2h2/v2h2.stream/chunklist.m3u8#Intent;package=com.wiseplay;S.referer=https://edge6a.v2h-cdn.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function jkn() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://live.topnews.co.th/hls/topnews_a_720.m3u8#Intent;package=com.wiseplay;S.referer=https://tvjaa.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
