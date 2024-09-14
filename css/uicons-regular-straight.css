@@ -6874,3 +6874,6 @@ line-height: 1;
         .fi-rs-zoom-out:before {
     content: "\f9ee";
     }
+        .fi fi-rr-woman-head:before {
+    content: "\f9ee";
+    }
