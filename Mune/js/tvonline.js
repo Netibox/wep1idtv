@@ -35,3 +35,15 @@ function pptv() {
 function onehdtv() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://bcovlive-a.akamaihd.net/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
+function pbs() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://www.ball24.tv/allchannel/?id=thaipbs#Intent;package=com.wiseplay;S.referer=https://www.ball24.tv/allchannel/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
+function voice() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://www.ball24.tv/allchannel/?id=voicetv#Intent;package=com.wiseplay;S.referer=https://www.ball24.tv/allchannel/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
+function jkn() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://live.topnews.co.th/hls/topnews_a_720.m3u8#Intent;package=com.wiseplay;S.referer=https://tvjaa.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
+function mcot() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://inwiptv.com/player_demo.php?channel=27141#Intent;package=com.wiseplay;S.referer=https://inwiptv.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
