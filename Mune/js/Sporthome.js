@@ -152,3 +152,9 @@ function tsport() {
 function espn1() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/foxsports1nl#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
+function beinfr1() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/beinsport1fr#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
+function beinfr2() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/beinsport2fr#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
