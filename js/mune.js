@@ -19,3 +19,6 @@ function chat() {
 function music() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://coolism-web.cdn.byteark.com/;stream/1#Intent;package=com.wiseplay;S.referer=https://www.coolism.net/&userAgent=exo_player;S.title=music online;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="music"></iframe>'
 };
+function score() {
+  location.href = "Mune/scoresindex.html";
+};
