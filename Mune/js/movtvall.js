@@ -1,5 +1,5 @@
 function attv8() {
-  location.href = "Mune/attv.html";
+  location.href = "http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8";
 };
 func
 function hbo() {
