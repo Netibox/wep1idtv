@@ -78,5 +78,5 @@ function fwmov() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://www.inwiptv.com/player_demo.php?channel=95262#Intent;package=com.wiseplay;S.referer=https://www.inwiptv.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function mpdhbo() {
-  document.getElementById("objek").innerHTML = 'intent://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd|drmScheme=widevine&drmLicense=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=Movietv;end" height="0" width="0" style="border:none;" title="Movietv"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd|drmScheme=widevine&drmLicense=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=Movietv;end" height="0" width="0" style="border:none;" title="Movietv"></iframe>'
 };
