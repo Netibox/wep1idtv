@@ -1,5 +1,5 @@
 function attv8() {
-  location.href = "Mune/attvindex.html";
+  location.href = "Mune/attv.html";
 };
 func
 function hbo() {
