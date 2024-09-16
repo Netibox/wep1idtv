@@ -1,7 +1,26 @@
+<!DOCTYPE html>
 <html>
-<html><head>
-<meta http-equiv="Content-Language" content="en-us">
-<META HTTP-EQUIV=Refresh CONTENT="0; URL=http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8">
-</head><body>
-<p>ดูผ่านแอพ เว็บบราวเซอร์ อื่นๆ หรือ แอป wiesplay.</p>
+    <head>
+        <meta charset="UTF-8" />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="//player.dacast.com/js/player.js" id=CONTENT_ID player='none' class="dacast-video">
+        </script>
+        <title>Welcome!</title>
+    </head>
+    <body>
+        <div id="test">  
+            <video controls width="100%" autoplay muted>
+<source src="http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8", type='application/x-mpegURL' ></source>
 
+            </video>
+        </div>
+    </body>
+    <script>
+        $(function(){
+        var myPlayer = dacast(CONTENT_ID, 'test', {player:'none'});
+          myPlayer.onReady(function(){
+            myPlayer.getSrc(function(e){ $("#channel").attr('src', e.url); console.log(e) });
+          });
+        });
+    </script>
+</html>
