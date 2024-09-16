@@ -68,8 +68,8 @@ function mvtv() {
 function hboa2() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://appletree-mytime-samsungbrazil.amagi.tv/playlist360p.m3u8#Intent;package=com.wiseplay;S.referer=https://appletree-mytime-samsungbrazil.amagi.tv/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
-function attv1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://49.0.87.24:1936/HDAttv/Attv/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
+function tcl() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/sd-tlc.stream/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://freetvdd.com/&userAgent=exo_player;S.title=TLC;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
 function mangorn() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/mangorn#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
