@@ -83,6 +83,6 @@ function mpdhbo() {
 function mpdcinemax() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd|drmScheme=widevine&drmLicense=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=Movietv;end" height="0" width="0" style="border:none;" title="Movietv"></iframe>'
 };
-function mpdtruesport() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://blacktvreborn.my.id/channel/sport/truepremiresport1.m3u8?|referer=https://www.movie87hd.com//&User-Agent=Mozilla/5.0%20(Linux;%20Android%2011;%20SM-A307GN%20Build/RP1A.200720.012;%20wv)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Version/4.0%20Chrome/107.0.5304.91%20Mobile%20Safari/537.36%20Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=Sport;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+function mpdiqiyi() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://quiet-rain-1d8f.wkwkw.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd|drmScheme=clearkey&drmLicense=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=Movietv;end" height="0" width="0" style="border:none;" title="Movietv"></iframe>'
 };
