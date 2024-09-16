@@ -80,3 +80,9 @@ function fwmov() {
 function mpdhbo() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd|drmScheme=widevine&drmLicense=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=Movietv;end" height="0" width="0" style="border:none;" title="Movietv"></iframe>'
 };
+function mpdcinemax() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd|drmScheme=widevine&drmLicense=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=Movietv;end" height="0" width="0" style="border:none;" title="Movietv"></iframe>'
+};
+function mpdaxn() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd?|referer=https://www.visionplus.id&drmScheme=clearkey&drmLicense=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=Movietv;end" height="0" width="0" style="border:none;" title="Movietv"></iframe>'
+};
