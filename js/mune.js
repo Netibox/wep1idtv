@@ -22,3 +22,6 @@ function music() {
 function score() {
   location.href = "Mune/scoresindex.html";
 };
+function shome() {
+  location.href = "index.html";
+};
