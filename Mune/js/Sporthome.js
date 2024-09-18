@@ -116,6 +116,12 @@ function siamsport1() {
 function siamsport2() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/siamsport2#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
+function siamsport3() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/siamsport3#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
+function siamsport3() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/siamsport4#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
 function nba() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dolive.thaim3u.com/doo-tv-football-com/siamsport-8/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://doo-tv.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
