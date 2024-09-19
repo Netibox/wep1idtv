@@ -32,7 +32,7 @@ function(result) {
 });
 
 // jsonconnect sportlist
-$.getJSON('https://dl.dropboxusercontent.com/scl/fi/wayiqt26q2ca9v8b8rwju/sportlist.json?rlkey=epy5gih21az1b8aascq148qyn&dl=0', 
+$.getJSON('', 
 function(result) {
   let sportlist = result.sportlist;
   //console.log(sportlist);
