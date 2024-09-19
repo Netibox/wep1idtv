@@ -32,7 +32,7 @@ function(result) {
 });
 
 // jsonconnect sportlist
-$.getJSON('', 
+$.getJSON('https://dl.dropbox.com/scl/fi/wphga1pv9havwzy80bd7t/thaitv.json?rlkey=wy5n0qswebv9tetq2uapvea0t&dl=0', 
 function(result) {
   let sportlist = result.sportlist;
   //console.log(sportlist);
