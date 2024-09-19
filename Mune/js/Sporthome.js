@@ -170,18 +170,6 @@ function sportdigi() {
 function dazn() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/dazn-laliga#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
-function jpleague1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&User-Agent=Mozilla/5.0%20(Linux;%20Android%2011;%20SM-A307GN%20Build/RP1A.200720.012;%20wv)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Version/4.0%20Chrome/107.0.5304.91%20Mobile%20Safari/537.36%20Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=TVSport;end" height="0" width="0" style="border:none;" title="TVSport"></iframe>'
-};
-function jpleague2() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&User-Agent=Mozilla/5.0%20(Linux;%20Android%2011;%20SM-A307GN%20Build/RP1A.200720.012;%20wv)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Version/4.0%20Chrome/107.0.5304.91%20Mobile%20Safari/537.36%20Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=TVSport;end" height="0" width="0" style="border:none;" title="TVSport"></iframe>'
-};
-function jpleague3() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&User-Agent=Mozilla/5.0%20(Linux;%20Android%2011;%20SM-A307GN%20Build/RP1A.200720.012;%20wv)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Version/4.0%20Chrome/107.0.5304.91%20Mobile%20Safari/537.36%20Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=TVSport;end" height="0" width="0" style="border:none;" title="TVSport"></iframe>'
-};
-function jpleague4() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&User-Agent=Mozilla/5.0%20(Linux;%20Android%2011;%20SM-A307GN%20Build/RP1A.200720.012;%20wv)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Version/4.0%20Chrome/107.0.5304.91%20Mobile%20Safari/537.36%20Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=TVSport;end" height="0" width="0" style="border:none;" title="TVSport"></iframe>'
-};
 function jsport1() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1|&User-Agent=Mozilla/5.0%20(Linux;%20Android%2011;%20SM-A307GN%20Build/RP1A.200720.012;%20wv)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Version/4.0%20Chrome/107.0.5304.91%20Mobile%20Safari/537.36%20Vinebre#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=JSportTV;end" height="0" width="0" style="border:none;" title="JSportTV"></iframe>'
 };
