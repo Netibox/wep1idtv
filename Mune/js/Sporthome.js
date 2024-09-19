@@ -170,7 +170,7 @@ function sportdigi() {
 function dazn() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/dazn-laliga#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
-function jpleague1() {
+function jp() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18#Intent;package=com.wiseplay;S.referer=https://freetvdd.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function jpleague2() {
@@ -181,4 +181,7 @@ function jpleague3() {
 };
 function jpleague4() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22#Intent;package=com.wiseplay;S.referer=https://freetvdd.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
+function jpleague1() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=TVNETBOX;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
