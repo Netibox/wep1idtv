@@ -167,3 +167,6 @@ function beinfr2() {
 function sportdigi() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/sportdigital#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
+function dazn() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/dazn-laliga#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
