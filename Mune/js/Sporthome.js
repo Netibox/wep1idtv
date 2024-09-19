@@ -33,13 +33,13 @@ function Bein1() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://www.andaman888th.com/ดูบอลออนไลน์/beinsport1#Intent;package=com.wiseplay;S.referer=https://www.andaman888th.com/&userAgent=exo_player;S.title=beIN1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function Bein2() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://media.wacthstream.com/stream_live/608_BEIN2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=#Intent;package=com.wiseplay;S.referer=https://wacth.tv/&userAgent=exo_player;S.title=beIN2;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/bein2#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/bein2&userAgent=exo_player;S.title=beIN2;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function Bein3() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://media.wacthstream.com/stream_live/609_BEIN3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=#Intent;package=com.wiseplay;S.referer=https://wacth.tv/&userAgent=exo_player;S.title=beIN3;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/bein3#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=beIN3;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function Bein4() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/hd-bein4.stream/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://freetvdd.com/&userAgent=exo_player;S.title=beIN2;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/bein4#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=beIN2;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function MLBSport() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/mlb#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
