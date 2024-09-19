@@ -32,7 +32,7 @@ function(result) {
 });
 
 // jsonconnect sportlist
-$.getJSON('https://blacktvreborn.my.id/database/liveevent/liveevent.json', 
+$.getJSON('', 
 function(result) {
   let sportlist = result.sportlist;
   //console.log(sportlist);
