@@ -32,7 +32,7 @@ function(result) {
 });
 
 // jsonconnect sportlist
-$.getJSON('https://pastebin.com/raw/DU3yuNUy', 
+$.getJSON('sportlist.js', 
 function(result) {
   let sportlist = result.sportlist;
   //console.log(sportlist);
