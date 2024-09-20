@@ -32,7 +32,7 @@ function(result) {
 });
 
 // jsonconnect sportlist
-$.getJSON('https://cdn.statically.io/gh/Netibox/wep1idtv/main/Mune/js/sportlist.js', 
+$.getJSON('', 
 function(result) {
   let sportlist = result.sportlist;
   //console.log(sportlist);
