@@ -44,3 +44,6 @@ function animax() {
 function disney() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/disney-channel#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=samrujlok;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
+function anime() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://stmv1.srvif.com/animetv/animetv/chunklist_w362127434.m3u8#Intent;package=com.wiseplay;S.referer=https://stmv1.srvif.com/animetv/&userAgent=exo_player;S.title=CARTOONNETWORK;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
