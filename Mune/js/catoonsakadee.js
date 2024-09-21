@@ -38,3 +38,9 @@ function hitstory() {
 function fwdoc() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://www.inwiptv.com/player_demo.php?channel=91303#Intent;package=com.wiseplay;S.userAgent=exo_player;S.title=FWDOC;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
+function animax() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/animax#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=samrujlok;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
+function disney() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/disney-channel#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=samrujlok;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
