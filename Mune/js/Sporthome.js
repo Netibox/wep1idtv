@@ -42,10 +42,10 @@ function Bein4() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/bein4#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=beIN2;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function Bein5() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn2.aws-live-streaming.com/lsmscore/bein5/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://99dooball.com/&userAgent=exo_player;S.title=beIN5;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://webhdrus.onlinehdhls.ru/lb/premium495/index.m3u8#Intent;package=com.wiseplay;S.referer=https://weblivehdplay.ru/&userAgent=exo_player;S.title=beIN5;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function Bein6() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn2.aws-live-streaming.com/lsmscore/bein6/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://99dooball.com/&userAgent=exo_player;S.title=beIN6;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://webhdrus.onlinehdhls.ru/lb/premium496/index.m3u8#Intent;package=com.wiseplay;S.referer=https://weblivehdplay.ru/&userAgent=exo_player;S.title=beIN6;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function MLBSport() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/mlb#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
