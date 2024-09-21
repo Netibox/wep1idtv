@@ -47,3 +47,6 @@ function disney() {
 function anime() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://stmv1.srvif.com/animetv/animetv/chunklist_w362127434.m3u8#Intent;package=com.wiseplay;S.referer=https://stmv1.srvif.com/animetv/&userAgent=exo_player;S.title=CARTOONNETWORK;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
+function ages() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8#Intent;package=com.wiseplay;S.referer=https://service-stitcher.clusters.pluto.tv/&userAgent=exo_player;S.title=CARTOONNETWORK;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
