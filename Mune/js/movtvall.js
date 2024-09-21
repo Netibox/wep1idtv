@@ -92,3 +92,6 @@ function iqiyi() {
 function rockenter() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/rock-entertainment#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
+function nhkjpan() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8#Intent;package=com.wiseplay;S.referer=https://nhkwlive-ojp.akamaized.net/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
+};
