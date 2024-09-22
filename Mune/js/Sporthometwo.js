@@ -23,7 +23,7 @@ function trueone11() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/tsp1#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=exo_player;S.title=PremierHD4;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function truetwo1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://www.ufa77.fun/channel?ch=truesporthd2#Intent;package=com.wiseplay;S.referer=https://www.ufa77.fun/channel?ch=truesporthd2&userAgent=exo_player;S.title=PremierHD4;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://www.ufa77.fun/channel?ch=truesporthd2#Intent;package=com.wiseplay;S.referer=https://www.ufa77.fun/&userAgent=exo_player;S.title=PremierHD4;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function truetwo22() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/tsp2#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=exo_player;S.title=PremierHD4;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
