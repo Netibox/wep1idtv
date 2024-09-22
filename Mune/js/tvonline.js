@@ -47,3 +47,9 @@ function jkn() {
 function mcot() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://inwiptv.com/player_demo.php?channel=27141#Intent;package=com.wiseplay;S.referer=https://inwiptv.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
+function cabeltv() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://www5.cabletv.co.th/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
+function siam() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://live1.thaitvstream.com/play/siamnewstv/index.m3u8#Intent;package=com.wiseplay;S.referer=https://live1.thaitvstream.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
