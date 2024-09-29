@@ -28,3 +28,10 @@ function truetwo1() {
 function truetwo22() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/tsp2#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=PremierHD4;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
+function dazn2() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/dazn2#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=PremierHD4;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
+function skysball() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/skysportfootball#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=PremierHD4;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
+
