@@ -34,4 +34,9 @@ function dazn2() {
 function skysball() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/skysportfootball#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=PremierHD4;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
-
+function universo() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/universo#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=PremierHD4;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
+function skyf1() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/skysportsf1#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=PremierHD4;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+};
