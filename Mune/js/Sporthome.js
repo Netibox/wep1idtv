@@ -57,7 +57,7 @@ function SPOTV2() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8?#Intent;package=com.wiseplay;S.referer=https://dooball2you.com/&userAgent=exo_player;S.title=SPOTV2;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function TrueSports1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://dolive.thaim3u.com/doo-tv-football-com/siamsport-8/playlist.m3u8?#Intent;package=com.wiseplay;S.referer=https://doo-tv.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/tsp1#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function TrueSports2() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/tsp2#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
@@ -149,7 +149,7 @@ function arena3() {
 function arena4() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport4/sport-inter/arenasport4/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://www.ball24hr.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
-function fs1() {
+function fs1tv() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/us-foxsports1.stream/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://freetvdd.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function fs2() {
