@@ -129,7 +129,7 @@ function siamsport4() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/siamsport4#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function nba() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://dolive.thaim3u.com/doo-tv-football-com/siamsport-8/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://doo-tv.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/nba#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function skyball() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/uk-skysports-football.stream/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://freetvdd.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
@@ -153,7 +153,7 @@ function fs1tv() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/us-foxsports1.stream/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://freetvdd.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function fs2() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/us-foxsports2.stream/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://freetvdd.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/foxsports2usa#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function redbull() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=TVNETBOX;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
