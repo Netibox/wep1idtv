@@ -30,7 +30,7 @@ function WWESport() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/wwe#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=exo_player;S.title=wweSports;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function Bein1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://www.andaman888th.com/ดูบอลออนไลน์/beinsport1#Intent;package=com.wiseplay;S.referer=https://www.andaman888th.com/&userAgent=exo_player;S.title=beIN1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://www.ball24.tv/allchannel/?id=bein1#Intent;package=com.wiseplay;S.referer=https://www.ball24.tv/allchannel/&userAgent=exo_player;S.title=beIN1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function Bein2() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/bein2#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/bein2&userAgent=exo_player;S.title=beIN2;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
@@ -39,10 +39,10 @@ function Bein3() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8#Intent;package=com.wiseplay;S.referer=https://www.doomovie-hd.com/&userAgent=exo_player;S.title=beIN3;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function Bein4() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s1/beinsporthd4_480p/chunks.m3u8?nimblesessionid=131557354&wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI0IDEyOjI0OjQ4IEFNJmhhc2hfdmFsdWU9OG1nMkUwSzQzQkJscks0RlNJZVBmZz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI5JmlkPTMwOTIxNg==#Intent;package=com.wiseplay;S.referer=https://www.ball24.tv/allchannel/&userAgent=exo_player;S.title=beIN4;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://www.ball24.tv/allchannel/?id=bein4#Intent;package=com.wiseplay;S.referer=https://www.ball24.tv/allchannel/&userAgent=exo_player;S.title=beIN4;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function Bein5() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent:https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s1/beinsporthd5_480p/chunks.m3u8?nimblesessionid=131557359&wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI0IDEyOjI1OjUzIEFNJmhhc2hfdmFsdWU9MnlKbHZ1Ky9YTnE3alJJbzVWWGxMdz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI5JmlkPTkzMTQzNw==#Intent;package=com.wiseplay;S.referer=https://www.ball24.tv/allchannel/&userAgent=exo_player;S.title=beIN5;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://www.ball24.tv/allchannel/?id=bein5#Intent;package=com.wiseplay;S.referer=https://www.ball24.tv/allchannel/&userAgent=exo_player;S.title=beIN5;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function Bein6() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://www.ball24.tv/allchannel/?id=bein6#Intent;package=com.wiseplay;S.referer=https://www.ball24.tv/allchannel/&userAgent=exo_player;S.title=beIN6;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
