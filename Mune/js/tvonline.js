@@ -53,3 +53,12 @@ function cabeltv() {
 function siam() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://live1.thaitvstream.com/play/siamnewstv/index.m3u8#Intent;package=com.wiseplay;S.referer=https://live1.thaitvstream.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
+function cnnnew() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/cnn#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
+};
+function bbcnew() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/bbc-news#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
+};
+function cnbc() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/cnbc#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
+};
