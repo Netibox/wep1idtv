@@ -11,19 +11,19 @@ function Bein1() {
   location.href = "go:Bein1";
 };
 function PremierHD1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://streaming.livescorethai.net/&userAgent=exo_player;S.title=PremierHD1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn1.googlecdn.live/4k/epl1_sd/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=PremierHD1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function PremierHD2() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://freetvdd.com/&userAgent=exo_player;S.title=Sports;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn2.aws-live-streaming.com/lsmscore/epl2/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=Sports;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function PremierHD3() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/epl-3.stream/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://streaming.livescorethai.net/&userAgent=exo_player;S.title=PremierHD3;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/epl-3.stream/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=PremierHD3;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function PremierHD4() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://freetvdd.com/&userAgent=exo_player;S.title=PremierHD4;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=PremierHD4;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function PremierHD5() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://freetvdd.com/&userAgent=exo_player;S.title=PremierHD5;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=PremierHD5;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function ASTROSPORT1() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro1/sport-inter/astro1/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://www.ball24hr.com/&userAgent=exo_player;S.title=ASTROSPORT1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
