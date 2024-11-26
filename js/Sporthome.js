@@ -11,7 +11,7 @@ function Bein1() {
   location.href = "go:Bein1";
 };
 function PremierHD1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn1.googlecdn.live/4k/epl1_sd/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=PremierHD1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8#Intent;package=com.wiseplay;S.referer=https://www.doomovie-hd.com/&userAgent=exo_player;S.title=PremierHD1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function PremierHD2() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://cdn2.aws-live-streaming.com/lsmscore/epl2/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=Sports;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
@@ -23,13 +23,13 @@ function PremierHD4() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/epl4#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=PremierHD4;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function PremierHD5() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/epl5#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=PremierHD5;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn1.googlecdn.live/dooballx/epl5/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://dooballx.com/&userAgent=exo_player;S.title=PremierHD5;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function ASTROSPORT1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro1/sport-inter/astro1/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://www.ball24hr.com/&userAgent=exo_player;S.title=ASTROSPORT1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/astropremierleague#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=ASTROSPORT1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function ASTROSPORT2() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/astro2#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=ASTROSPORT2;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/astrofootball#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=ASTROSPORT2;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function ASTROSPORT3() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/astro3#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=ASTROSPORT3;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
