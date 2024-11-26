@@ -81,10 +81,10 @@ function Truetennis() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/tsp2#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function ballthai1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai1/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://24xball.co/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dolive.thaim3u.com/doolive4k-tv/football-play-1/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://doolive4k-tv/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function ballthai2() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai2/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://24xball.co/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dolive.thaim3u.com/doolive4k-tv/football-play-1/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://doolive4k-tv/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function ballthai3() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai3/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://24xball.co/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
