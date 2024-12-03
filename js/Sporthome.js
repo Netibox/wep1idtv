@@ -11,7 +11,7 @@ function Bein1() {
   location.href = "go:Bein1";
 };
 function PremierHD1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8#Intent;package=com.wiseplay;S.referer=https://www.doomovie-hd.com/&userAgent=exo_player;S.title=PremierHD1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dolive.thaim3u.com/doolive4k-tv/siamsport-1/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://doolive4k.tv/&userAgent=exo_player;S.title=PremierHD1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function PremierHD2() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://cdn2.aws-live-streaming.com/lsmscore/epl2/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=Sports;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
