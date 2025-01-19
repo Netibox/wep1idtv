@@ -1,6 +1,6 @@
 
 function PremierHD1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://dolive.thaim3u.com/doolive4k-tv/siamsport-1/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://doolive4k.tv/&userAgent=exo_player;S.title=PremierHD1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/epl1_sd#Intent;package=com.wiseplay;S.referer=https://doolive4k.tv/&userAgent=exo_player;S.title=PremierHD1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function PremierHD11() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://cdn1.googlecdn.live/4k/epl1_sd/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=PremierHD1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
