@@ -33,7 +33,7 @@ function pptv() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://www.inwiptv.com/player_demo.php?channel=27129#Intent;package=com.wiseplay;S.referer=https://www.inwiptv.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function onehdtv() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://bcovlive-a.akamaihd.net/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://edge2a.v2h-cdn.com/hd_one/hd_one.stream/playlist.m3u8#Intent;package=com.wiseplay;S.referer=&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function pbs() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8?checkedby:iptvcat.com#Intent;package=com.wiseplay;S.referer=https://thaipbs-live.cdn.byteark.com/live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
