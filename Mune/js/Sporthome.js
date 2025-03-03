@@ -81,16 +81,16 @@ function Truetennis() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/tsp2#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function ballthai1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai1/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://24xball.co/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn1.googlecdn.live/dooballrealtime/trueballthai1/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://www.dooballrealtime.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function ballthai2() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai2/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://24xball.co/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn1.googlecdn.live/dooballrealtime/trueballthai2/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://www.dooballrealtime.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function ballthai3() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai3/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://24xball.co/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn1.googlecdn.live/dooballrealtime/trueballthai3/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://www.dooballrealtime.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function ballthai4() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai4/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://24xball.co/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn1.googlecdn.live/dooballrealtime/trueballthai4/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://www.dooballrealtime.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function ballthai5() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=464&tv=TrueBallThai5#Intent;package=com.wiseplay;S.referer=https://goal-th.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
@@ -120,10 +120,10 @@ function lfctv() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/uk-lfctv.stream/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://freetvdd.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function siamsport1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai1/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://24xball.co/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn2.aws-live-streaming.com/lsmscore/trueballthai1/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://99dooball.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function siamsport2() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai2/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://24xball.co/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn2.aws-live-streaming.com/lsmscore/trueballthai2/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://99dooball.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function siamsport3() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/siamsport3#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
