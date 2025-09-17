@@ -3,7 +3,7 @@ function PremierHD1() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela2.live/live-tv/playsportsfootball10#Intent;package=com.wiseplay;S.referer=https://doolive4k.tv/&userAgent=exo_player;S.title=PremierHD1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function PremierHD11() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela2.live/live-tv/monomax1#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=PremierHD1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://warpdooball.net/&userAgent=exo_player;S.title=PremierHD1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function PremierHD2() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela2.live/live-tv/monomax1#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
