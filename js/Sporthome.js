@@ -11,7 +11,7 @@ function Bein1() {
   location.href = "go:Bein1";
 };
 function PremierHD1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/dazn1#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=DAZN1Germany;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://warpdooball.net/&userAgent=exo_player;S.title=DAZN1Germany;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function PremierHD2() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://warpdooball.net/&userAgent=exo_player;S.title=Sports;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
