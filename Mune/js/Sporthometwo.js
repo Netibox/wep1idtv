@@ -1,5 +1,5 @@
 function epl1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://dolive.thaim3u.com/doolive4k-tv/siamsport-1/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://doolive4k.tv/&userAgent=exo_player;S.title=PremierHD1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://bestcommt2.github.io/m3u8/monomax2.m3u8#Intent;package=com.wiseplay;S.referer=https://bestcommt2.github.io/&userAgent=exo_player;S.title=PremierHD1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function epl1two() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://www.ball24.tv/allchannel/?id=epl1#Intent;package=com.wiseplay;S.referer=https://www.ball24.tv/&userAgent=exo_player;S.title=PremierHD1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
