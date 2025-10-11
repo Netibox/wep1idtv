@@ -14,7 +14,7 @@ function PremierHD1() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://warpdooball.net/&userAgent=exo_player;S.title=DAZN1Germany;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function PremierHD2() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://bestcommt2.github.io/m3u8/monomax1.m3u8#Intent;package=com.wiseplay;S.referer=http://bestcommt2.github.io/&userAgent=exo_player;S.title=Sports;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://www.livedoomovies.com/Monomax_PL_1HD/chunklist.m3u8#Intent;package=com.wiseplay;S.referer=https://www.movie2k.io/&userAgent=exo_player;S.title=Sports;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function PremierHD3() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://bestcommt2.github.io/m3u8/monomax2.m3u8#Intent;package=com.wiseplay;S.referer=http://bestcommt2.github.io/&userAgent=exo_player;S.title=PremierHD3;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
