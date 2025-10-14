@@ -1,6 +1,6 @@
 
 function toonclub() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/truesparkplay#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=CartoonClub;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/cartoon-network#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=CartoonClub;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function toonnito() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/cartoonito#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=Cartoon;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
