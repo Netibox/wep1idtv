@@ -3,7 +3,7 @@ function attv8() {
 };
 func
 function hbo() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186515&extension=ts#Intent;package=com.wiseplay;S.refererhttps://livesod365.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela2.live/live-tv/hbo#Intent;package=com.wiseplay;S.referer=https://dookeela2.live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
 function hboen() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://panel.sulu1.cc:2052/travis1/travis1/88743#Intent;package=com.wiseplay;S.referer=https://dookeela2.live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
@@ -12,7 +12,7 @@ function hbofamily() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/hbo-family#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
 function hbohit2() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186429&extension=ts#Intent;package=com.wiseplay;S.referer=https://livesod365.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela2.live/live-tv/hbo-hits#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
 function signaturehbo() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186513&extension=ts#Intent;package=com.wiseplay;S.referer=https://livesod365.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
@@ -33,7 +33,7 @@ function moviehits() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186473&extension=ts#Intent;package=com.wiseplay;S.referer=https://livesod365.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
 function cinemax() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186470&extension=ts#Intent;package=com.wiseplay;S.referer=https://livesod365.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela2.live/live-tv/cinemax#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
 function mixmajor() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://edge6a.v2h-cdn.com/mix_major/mix_major.stream/chunklist_w1656949848.m3u8#Intent;package=com.wiseplay;S.referer=https://edge6a.v2h-cdn.com/mix_major/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
@@ -48,7 +48,7 @@ function channel8() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela2.live/live-tv/ch8#Intent;package=com.wiseplay;S.referer=https://dookeela2.live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
 function warnertv() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186637&extension=ts#Intent;package=com.wiseplay;S.referer=https://livesod365.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela2.live/live-tv/warnertv#Intent;package=com.wiseplay;S.referer=https://dookeela2.live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
 function axn() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/axn#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
