@@ -9,10 +9,10 @@ function nickjr() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/nickjr#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=NICKJR;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function boomer() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/boomerang#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=BOOMERANG;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=BOOMERANG;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function toonnetw() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/cartoon-network#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=CARTOONNETWORK;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://www.distro.tv/live/toonzkids/#Intent;package=com.wiseplay;S.referer=https://www.distro.tv/live/toonzkids/&userAgent=exo_player;S.title=CARTOONNETWORK;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function fwtoon() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://www.inwiptv.com/player_demo.php?channel=89780#Intent;package=com.wiseplay;S.referer=https://www.inwiptv.com/&userAgent=exo_player;S.title=FWToon;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
