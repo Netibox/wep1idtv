@@ -6,7 +6,7 @@ function toonnito() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/cartoonito#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=Cartoon;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function nickjr() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/nickjr#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=NICKJR;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://212.102.60.231/DISNEY_JR/index.m3u8#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=NICKJR;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function boomer() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=BOOMERANG;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
