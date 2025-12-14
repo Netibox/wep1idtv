@@ -1,15 +1,15 @@
 
 function hbo() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186515&extension=ts#Intent;package=com.wiseplay;S.referer=https://livesod365.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://github.com/cattviptv2605/movies/raw/refs/heads/main/hbo.m3u8#Intent;package=com.wiseplay;S.referer=https://github.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
 function hboen() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/hd-hboeng.stream/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://livesod365.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela2.live/live-tv/hbo#Intent;package=com.wiseplay;S.referer=https://dookeela2.live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
 function hbofamily() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/hbo-family#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
 function hbohit() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186429&extension=ts#Intent;package=com.wiseplay;S.referer=https://livesod365.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://github.com/cattviptv2605/movies/raw/refs/heads/main/hbohits.m3u8#Intent;package=com.wiseplay;S.referer=https://github.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
 function truethaifilm() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186586&extension=ts#Intent;package=com.wiseplay;S.referer=https://livesod365.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
