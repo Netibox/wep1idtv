@@ -11,13 +11,13 @@ function Bein1() {
   location.href = "go:Bein1";
 };
 function PremierHD1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://www.livedoomovies.com/Monomax_Live_1HD/chunklist.m3u8#Intent;package=com.wiseplay;S.referer=https://www.movie2k.io/&userAgent=exo_player;S.title=DAZN1Germany;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX1.m3u8#Intent;package=com.wiseplay;S.referer=https://github.com/&userAgent=exo_player;S.title=DAZN1Germany;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function PremierHD2() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://www.livedoomovies.com/Monomax_Live_1HD/chunklist.m3u8#Intent;package=com.wiseplay;S.referer=https://www.movie2k.io/&userAgent=exo_player;S.title=Sports;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX2.m3u8#Intent;package=com.wiseplay;S.referer=https://github.com/&userAgent=exo_player;S.title=Sports;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function PremierHD3() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://www.livedoomovies.com/AIS_PLAY_2HD/chunklist.m3u8#Intent;package=com.wiseplay;S.refererhttps://www.movie2k.io/&userAgent=exo_player;S.title=PremierHD3;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX3.m3u8#Intent;package=com.wiseplay;S.refererhttps://github.com/&userAgent=exo_player;S.title=PremierHD3;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function PremierHD4() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://www.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8#Intent;package=com.wiseplay;S.referer=https://www.movie2k.io/&userAgent=exo_player;S.title=PremierHD4;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
@@ -41,13 +41,13 @@ function WWESport() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/wwe#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=exo_player;S.title=wweSports;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function Bein1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8#Intent;package=com.wiseplay;S.referer=https://www.movie2k.io/&userAgent=exo_player;S.title=beIN1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://github.com/cattviptv2605/sportworld/raw/refs/heads/main/beinsports1turkey.m3u8#Intent;package=com.wiseplay;S.referer=https://github.com/&userAgent=exo_player;S.title=beIN1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function Bein2() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8#Intent;package=com.wiseplay;S.referer=https://www.movie2k.io/&userAgent=exo_player;S.title=beIN2;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://github.com/cattviptv2605/sportworld/raw/refs/heads/main/beinsports2turkey.m3u8#Intent;package=com.wiseplay;S.referer=https://github.com/&userAgent=exo_player;S.title=beIN2;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function Bein3() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://www.livedoomovies.com/02_epl3_720p/chunklist.m3u8#Intent;package=com.wiseplay;S.referer=https://www.movie2k.io/&userAgent=exo_player;S.title=beIN2;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://github.com/cattviptv2605/sportworld/raw/refs/heads/main/beinsports3turkey.m3u8#Intent;package=com.wiseplay;S.referer=https://github.com/&userAgent=exo_player;S.title=beIN2;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function Bein4() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/bein3#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=beIN2;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
