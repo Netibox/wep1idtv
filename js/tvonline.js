@@ -8,13 +8,13 @@ function tvhd7() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=TVNETBOX;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function thairat() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=TVNETBOX;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://www.livedoomovies.com:4431/02_THAIRATH_720p/playlist.m3u8#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=TVNETBOX;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function true4utv() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://iptv36.vercel.app/api/true.m3u8?channel=true4u#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=TVNETBOX;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function amaran() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://45.144.166.242:1935/AmarinTV/t3_amarintv/chunklist.m3u8&User-Agent=Mozilla/5.0%20(Linux;%20Android%2011;%20SM-A307GN%20Build/RP1A.200720.012;%20wv)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Version/4.0%20Chrome/107.0.5304.91%20Mobile%20Safari/537.36%20Vinebre#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=TVNETBOX;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://www.livedoomovies.com:4431/02_AMARINHD_720p/playlist.m3u8&User-Agent=Mozilla/5.0%20(Linux;%20Android%2011;%20SM-A307GN%20Build/RP1A.200720.012;%20wv)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Version/4.0%20Chrome/107.0.5304.91%20Mobile%20Safari/537.36%20Vinebre#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=TVNETBOX;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function gmmz() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
