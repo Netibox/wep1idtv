@@ -1,6 +1,6 @@
 
 function toonclub() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/cartoon-network#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=CartoonClub;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://49.0.64.96:8007/Cartoonumi#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=CartoonClub;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function toonnito() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/cartoonito#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=Cartoon;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
@@ -9,7 +9,7 @@ function nickjr() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://212.102.60.231/DISNEY_JR/index.m3u8#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=NICKJR;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function boomer() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=BOOMERANG;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://github.com/cattv976/cartoon/raw/refs/heads/main/boomeramg.m3u8#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=BOOMERANG;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function toonnetw() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://www.distro.tv/live/toonzkids/#Intent;package=com.wiseplay;S.referer=https://www.distro.tv/live/toonzkids/&userAgent=exo_player;S.title=CARTOONNETWORK;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
@@ -21,19 +21,19 @@ function sparkplay() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/truesparkplay#Intent;package=com.wiseplay;S.referer=https://www.inwiptv.com/&userAgent=exo_player;S.title=TRUESPARKPLAY;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function samrujlok() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/samrujlok#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=samrujlok;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://github.com/cattv976/documentary/raw/refs/heads/main/samrujlok.m3u8#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=samrujlok;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function animal() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/animalshow#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=AnimalShow;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://github.com/cattv976/documentary/raw/refs/heads/main/animalshow.m3u8#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=AnimalShow;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function mysci() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/mysci#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=MYSCI;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function discovery() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/hd-discoveryeng.stream/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://freetvdd.com/&userAgent=exo_player;S.title=DISCOVERY;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://github.com/cattv976/documentary/raw/refs/heads/main/discoveryasia1.m3u8#Intent;package=com.wiseplay;S.referer=https://freetvdd.com/&userAgent=exo_player;S.title=DISCOVERY;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function hitstory() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/hd-historyeng.stream/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://freetvdd.com/&userAgent=exo_player;S.title=HISTORYEN;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://github.com/cattv976/documentary/raw/refs/heads/main/history1.m3u8#Intent;package=com.wiseplay;S.referer=https://freetvdd.com/&userAgent=exo_player;S.title=HISTORYEN;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function fwdoc() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://www.inwiptv.com/player_demo.php?channel=91303#Intent;package=com.wiseplay;S.userAgent=exo_player;S.title=FWDOC;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
