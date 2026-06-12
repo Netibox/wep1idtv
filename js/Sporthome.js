@@ -11,10 +11,10 @@ function Bein1() {
   location.href = "go:Bein1";
 };
 function PremierHD1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://www.livedoomovies.com:4431/Monomax_PL_1HD/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://www.doonewmovie365.com/&userAgent=exo_player/&userAgent=exo_player;S.title=DAZN1Germany;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8#Intent;package=com.wiseplay;S.referer=https://github.com/&userAgent=exo_player/&userAgent=exo_player;S.title=DAZN1Germany;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function PremierHD2() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX1.m3u8#Intent;package=com.wiseplay;S.referer=https://github.com/&userAgent=exo_player;S.title=Sports;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8#Intent;package=com.wiseplay;S.referer=https://github.com/&userAgent=exo_player;S.title=Sports;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function PremierHD3() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://www.livedoomovies.com:4431/AIS_PLAY_1HD/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://www.doonewmovie365.com/&userAgent=exo_player;S.title=PremierHD3;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
