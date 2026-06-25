@@ -36,7 +36,7 @@ function cinemax() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://23.237.104.106:8080/USA_5STARMAX/tracks-v1a1/mono.m3u8#Intent;package=com.wiseplay;S.referer=https://23.237.104.106:8080/USA_5STARMAX/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
 function mixmajor() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://edge6a.v2h-cdn.com/mix_major/mix_major.stream/chunklist_w1656949848.m3u8#Intent;package=com.wiseplay;S.referer=https://edge6a.v2h-cdn.com/mix_major/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://api.plus-server.sbs/play.php?key=1234&ch=mix_mvtv#Intent;package=com.wiseplay;S.referer=https://edge6a.v2h-cdn.com/mix_major/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
 function mtvasia() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://freetvdd.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
