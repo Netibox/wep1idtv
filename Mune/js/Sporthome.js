@@ -33,13 +33,13 @@ function WWESport() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/wwe#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=exo_player;S.title=wweSports;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function Bein1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://github.com/cattv976/sportthai/raw/refs/heads/main/tuebeinsport1.m3u8#Intent;package=com.wiseplay;S.referer=//github.com/&userAgent=exo_player;S.title=beIN1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://41.205.70.146/BEINSPORT1/index.m3u8#Intent;package=com.wiseplay;S.referer=https://41.205.70.146/&userAgent=exo_player;S.title=beIN1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function Bein2() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://github.com/cattv976/sportthai/raw/refs/heads/main/tuebeinsport2.m3u8#Intent;package=com.wiseplay;S.referer=https://github.com/&userAgent=exo_player;S.title=beIN2;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://41.205.70.146/BEINSPORT2/index.m3u8#Intent;package=com.wiseplay;S.referer=https://41.205.70.146/&userAgent=exo_player;S.title=beIN2;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function Bein3() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://github.com/cattv976/sportthai/raw/refs/heads/main/tuebeinsport3.m3u8#Intent;package=com.wiseplay;S.referer=https://github.com/&userAgent=exo_player;S.title=beIN3;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=1841554&extension=m3u8#Intent;package=com.wiseplay;S.referer=https://88.135.69.66:2095/play/&userAgent=exo_player;S.title=beIN3;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function Bein4() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://www.ball24.tv/allchannel/?id=bein4#Intent;package=com.wiseplay;S.referer=https://www.ball24.tv/allchannel/&userAgent=exo_player;S.title=beIN4;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
@@ -60,13 +60,13 @@ function SPOTV2() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8?#Intent;package=com.wiseplay;S.referer=https://github.com/&userAgent=exo_player;S.title=SPOTV2;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function TrueSports1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://119.59.118.159/live/ch9/thailosonic2026/index.m3u8#Intent;package=com.wiseplay;S.referer=https://github.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://54.37.19.157/tsp1/tracks-v1a1/mono.m3u8#Intent;package=com.wiseplay;S.referer=https:///54.37.19.157/tsp1/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function TrueSports2() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://119.59.118.159/live/ch10/thailosonic2026/index.m3u8#Intent;package=com.wiseplay;S.referer=https://github.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://54.37.19.157/tsp2/tracks-v1a1/mono.m3u8#Intent;package=com.wiseplay;S.referer=https://54.37.19.157/tsp2/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function TrueSports3() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://119.59.118.168/live/ch11/thailosonic2026/index.m3u8#Intent;package=com.wiseplay;S.referer=https://github.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://54.37.19.157/tsp3/tracks-v1a1/mono.m3u8#Intent;package=com.wiseplay;S.referer=https://54.37.19.157/tsp3/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function TrueSports4() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/tsp4#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
@@ -75,10 +75,10 @@ function TrueSports5() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://119.59.118.168/live/ch13/thailosonic2026/index.m3u8#Intent;package=com.wiseplay;S.referer=https://github.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function TrueSports7() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-11/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://live-demo.iamtheme.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://54.37.19.157/tsp7/tracks-v1a1/mono.m3u8#Intent;package=com.wiseplay;S.referer=https://54.37.19.157/tsp7/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function Truetennis() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/tsp2#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://54.37.19.157/tennis/tracks-v1a1/mono.m3u8#Intent;package=com.wiseplay;S.referer=https://54.37.19.157/tennis/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function ballthai1() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://cdn1.googlecdn.live/dooballrealtime/trueballthai1/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://www.dooballrealtime.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
