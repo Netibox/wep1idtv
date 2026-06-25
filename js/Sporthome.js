@@ -41,10 +41,10 @@ function WWESport() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/wwe#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=exo_player;S.title=wweSports;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function Bein1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://54.37.19.157/bein1/tracks-v1a1/mono.m3u8#Intent;package=com.wiseplay;S.referer=https://54.37.19.157/&userAgent=exo_player;S.title=beIN1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://41.205.70.146/BEINSPORT1/index.m3u8#Intent;package=com.wiseplay;S.referer=https://41.205.70.146/&userAgent=exo_player;S.title=beIN1;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function Bein2() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://54.37.19.157/bein2/tracks-v1a1/mono.m3u8#Intent;package=com.wiseplay;S.referer=https://54.37.19.157/bein2/tracks-v1a1/mono.m3u8&userAgent=exo_player;S.title=beIN2;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://41.205.70.146/BEINSPORT2/index.m3u8#Intent;package=com.wiseplay;S.referer=https://41.205.70.146/bein2/tracks-v1a1/mono.m3u8&userAgent=exo_player;S.title=beIN2;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function Bein3() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://54.37.19.157/bein3/tracks-v1a1/mono.m3u8#Intent;package=com.wiseplay;S.referer=https://54.37.19.157/bein3/&userAgent=exo_player;S.title=beIN2;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
