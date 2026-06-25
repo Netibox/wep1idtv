@@ -27,7 +27,7 @@ function moviehits() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186473&extension=ts#Intent;package=com.wiseplay;S.referer=https://livesod365.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
 function cinemax() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://54.37.19.157/cinemax/tracks-v1a1/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://54.37.19.157/cinemax/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://23.237.104.106:8080/USA_5STARMAX/tracks-v1a1/mono.m3u8#Intent;package=com.wiseplay;S.referer=https://23.237.104.106:8080/USA_5STARMAX/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
 function mixmajor() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://edge6a.v2h-cdn.com/mix_major/mix_major.stream/chunklist_w1656949848.m3u8#Intent;package=com.wiseplay;S.referer=https://edge6a.v2h-cdn.com/mix_major/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
@@ -36,7 +36,7 @@ function mtvasia() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8#Intent;package=com.wiseplay;S.referer=https://freetvdd.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
 function mono() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://wmonomax-uiripn.cdn.byteark.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://live.livedoomovies.com:4433/live/02_MONO_720p/playlist.m3u8?vid=x84yoZWyd-vxhRYS#Intent;package=com.wiseplay;S.referer=https://www.doonewmovie365.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
 function channel8() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8#Intent;package=com.wiseplay;S.referer=https://cdn-th-vip.login.in.th:443/ch8/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
