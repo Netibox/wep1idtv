@@ -3,7 +3,7 @@ function attv8() {
 };
 func
 function hbo() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://raw.githubusercontent.com/Netibox/MOV69/refs/heads/main/mov/hbo1.m3u8#Intent;package=com.wiseplay;S.referer=https://github.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://github.com/cattv976/movies/raw/refs/heads/main/hbo1.m3u8#Intent;package=com.wiseplay;S.referer=https://github.com/cattv976/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
 function hboen() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://github.com/cattv976/movies/raw/refs/heads/main/hbo1.m3u8#Intent;package=com.wiseplay;S.referer=https://github.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
@@ -33,7 +33,7 @@ function moviehits() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://raw.githubusercontent.com/Netibox/MOV69/refs/heads/main/mov/hitsmovies.m3u8#Intent;package=com.wiseplay;S.referer=https://github.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
 function cinemax() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://raw.githubusercontent.com/Netibox/MOV69/refs/heads/main/mov/cinemax1.m3u8#Intent;package=com.wiseplay;S.referer=https://github.com/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://23.237.104.106:8080/USA_5STARMAX/tracks-v1a1/mono.m3u8#Intent;package=com.wiseplay;S.referer=https://23.237.104.106:8080/USA_5STARMAX/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
 function mixmajor() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://edge6a.v2h-cdn.com/mix_major/mix_major.stream/chunklist_w1656949848.m3u8#Intent;package=com.wiseplay;S.referer=https://edge6a.v2h-cdn.com/mix_major/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
