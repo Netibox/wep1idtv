@@ -60,19 +60,19 @@ function SPOTV2() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8?#Intent;package=com.wiseplay;S.referer=https://github.com/&userAgent=exo_player;S.title=SPOTV2;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function TrueSports1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://54.37.19.157/tsp1/tracks-v1a1/mono.m3u8#Intent;package=com.wiseplay;S.referer=https:///54.37.19.157/tsp1/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://live.livedoomovies.com:4433/api/hls/live/2892/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://www.doonewmovie365.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function TrueSports2() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://54.37.19.157/tsp2/tracks-v1a1/mono.m3u8#Intent;package=com.wiseplay;S.referer=https://54.37.19.157/tsp2/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://live.livedoomovies.com:4433/api/hls/live/2891/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://www.doonewmovie365.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function TrueSports3() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://54.37.19.157/tsp3/tracks-v1a1/mono.m3u8#Intent;package=com.wiseplay;S.referer=https://54.37.19.157/tsp3/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://live.livedoomovies.com:4433/api/hls/live/2890/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://www.doonewmovie365.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function TrueSports4() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://dookeela.live/live-tv/tsp4#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://live.livedoomovies.com:4433/api/hls/live/2889/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://www.doonewmovie365.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function TrueSports5() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://119.59.118.168/live/ch13/thailosonic2026/index.m3u8#Intent;package=com.wiseplay;S.referer=https://github.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://live.livedoomovies.com:4433/api/hls/live/2888/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://www.doonewmovie365.com/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
 };
 function TrueSports7() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://54.37.19.157/tsp7/tracks-v1a1/mono.m3u8#Intent;package=com.wiseplay;S.referer=https://54.37.19.157/tsp7/&userAgent=exo_player;S.title=NETBOX TV;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="TV online"></iframe>'
