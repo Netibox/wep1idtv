@@ -1,6 +1,6 @@
 
 function hbo() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://godlivetv.io/madoball/2820/playlist.m3u8#Intent;package=com.wiseplay;S.referer=https://godlivetv.io/madoball/2820/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://godlivetv.io/madoball/2820/playlist.m3u8#Intent;package=com.wiseplay;S.userAgent=exo_player;S.title=hbo;S.referer=;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
 };
 function hboen() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://23.237.104.106:8080/USA_HBO2/index.m3u8#Intent;package=com.wiseplay;S.referer=https://23.237.104.106:8080/USA_HBO2/&userAgent=exo_player;S.title=TVonline;scheme=https;type=video/mp4;end" height="0" width="0" style="border:none;" title="MOVIETV"></iframe>'
